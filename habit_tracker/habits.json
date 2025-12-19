@@ -1,0 +1,17 @@
+{
+  "Morning run": {
+    "resistance": 4,
+    "confidence": 7,
+    "created": "2025-10-13"
+  },
+  "Reading 20 min": {
+    "resistance": 3,
+    "confidence": 8,
+    "created": "2025-10-03"
+  },
+  "Meditation 10 min": {
+    "resistance": 5,
+    "confidence": 6,
+    "created": "2025-10-18"
+  }
+}
